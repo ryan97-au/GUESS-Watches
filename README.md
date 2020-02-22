@@ -8,9 +8,9 @@ Hi everyone, my name is Bret Gibson. I'm the president and chief commercial offi
 The question I have is the following, GUESS watches is planning on hosting an event in New York City where we will launch a new collection in conjunction with a New-York-based social media influencer, she's a millennial fashion and lifestyle influencer who became famous through her blog and later Instagram. Those attending the event will be other smaller social-media influencers as well as press. The goal of the event is to create buzz and awareness via social media about the new collaboration with our target demographic of females primarily aged 18 to 30.
 
 So, I want you to please recommend the following:
-  1. I'd like to know a specific location where we should have the event, and this can be any of the five boroughs of New York.
-  2. I'd like to know the best way to find other smaller social media influencers to invite to the event and what the criteria is for choosing them.
-  3. I'd also like to know the best digital and social channels to focus on leading up and throughout the event in order to reach our target audience and ensure interest and exposure at the actual event itself.
+  1. I'd like to know `a specific location where we should have the event`, and this can be `any of the five boroughs of New York`.
+  2. I'd like to know `the best way to find other smaller social media influencers` to invite to the event and what `the criteria` is for choosing them.
+  3. I'd also like to know `the best digital and social channels` to focus on leading up and throughout the event in order to reach our target audience and ensure interest and exposure at the actual event itself.
   
 So, thanks for all your feedback, I look forward to seeing your research and findings. Good luck!
 "
